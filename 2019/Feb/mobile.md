@@ -68,3 +68,4 @@ from wamsung.com
 
 你看，这玩意儿连开关都不用，简直屌爆了！
 
+[版权声明](../../LICENSE/zh_cn.md) | [LICENSE](../../LICENSE/en_us.md)
